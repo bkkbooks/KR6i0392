@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0392/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 溫室經義記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1793.xml
+    old_id: T39n1793
+hash: sha256:f38f76896c06ef56d8655a8fc62425a98546050fb1015452a44093dacaa1a16d

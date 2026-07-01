@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6i0392/v1
+canonical_location: https://kanripo.org/bkk/KR6i0392/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫室經義記
+  identifiers:
+    alt_id:
+    - T39n1793
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1793.xml
+    old_id: T39n1793
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0392_000.yaml, hash: 'sha256:f38f76896c06ef56d8655a8fc62425a98546050fb1015452a44093dacaa1a16d'}
+  - {seq: 1, filename: KR6i0392_001.yaml, hash: 'sha256:d05b280f0c9da5f2eae5701c652dc198266cb3a66bf9ec6fe84cfbdab5f9a953'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0392_001.markers.yaml, hash: 'sha256:605a6486aa7c92c3eb9c5ef863758414b2d20ee21e590fda54d7bd92308bcd33'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0392_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4951
+  label: 溫室經義記
+  type: juan
+  level: 1
+hash: sha256:c48c6733a12844d24c4d1c98009ebc61e5c6f272e0b65741b2691861a43f9501
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
