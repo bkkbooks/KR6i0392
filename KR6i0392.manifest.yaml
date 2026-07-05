@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0392_000.yaml, hash: 'sha256:f38f76896c06ef56d8655a8fc62425a98546050fb1015452a44093dacaa1a16d'}
-  - {seq: 1, filename: KR6i0392_001.yaml, hash: 'sha256:d05b280f0c9da5f2eae5701c652dc198266cb3a66bf9ec6fe84cfbdab5f9a953'}
+  - {seq: 1, filename: KR6i0392_001.yaml, hash: 'sha256:b665761e46fb73e268882551934761a5dc0583c8258d46cd5519de4f37db4592'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0392_001.markers.yaml, hash: 'sha256:605a6486aa7c92c3eb9c5ef863758414b2d20ee21e590fda54d7bd92308bcd33'}
+  - {seq: 0, role: markers, filename: assets/KR6i0392_000.markers.yaml, hash: 'sha256:a2c3e923df7ac4cda73e896c7c398f9aef2196210f0aa2df1a77b0fa1302257d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0392_001.markers.yaml, hash: 'sha256:f947fbf9b20e016e1971d3f712da77fee54e69e3be3260f5f912ac9ca355f38d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 溫室經義記
   type: juan
   level: 1
-hash: sha256:c48c6733a12844d24c4d1c98009ebc61e5c6f272e0b65741b2691861a43f9501
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:016d12e3258557b2c8677d20720ed15baefbdf3c5983855529e50e8bbfd44086
